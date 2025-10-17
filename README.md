@@ -1,6 +1,5 @@
-# QA Challenge – API Test Automation
-This section contains API test automation for the "User Service" as part of QA Challenge.
-All tests were automated implemented in Java (JUnit5 + RestAssured) with Allure Reporting for detailed visualization of test execution.
+# APIs functional and load testing
+Hybrid API testing solution built with RestAssured, JUnit5, and Gatling. Supports both functional and load testing in a single Maven project with integrated Allure reporting.
 
 ## RestAssured & Gatling Testing Framework
 This repository demonstrates a comprehensive API testing framework built using:
