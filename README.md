@@ -46,7 +46,7 @@ To execute the test, follow the following steps:
     ```bash
     mvn allure:serve
     ```
-3. Report details: The report has been carefully structured, you will find the tests well organized into Epics, Features, Stories, with customized test names, detailed test steps and request–response attachments for each test case.
+3. Report details: The report has been carefully structured, you will find the tests well organized into Epics, Features, Stories, with customized test names, detailed test steps and request–response attachments for each test case. Please see the details in video: https://github.com/user-attachments/assets/c7124e19-3c4c-4971-be96-9807eb383f30
 
 ### Test Scenarios Covered
 
